@@ -1,8 +1,11 @@
-# Responsive Portfolio - Bhavya Raju
+# Portfolio - Bhavya Raju
 
 Welcome to the codebase for **Bhavya Raju's Portfolio**. This project showcases a professional portfolio website designed to highlight my skills, projects, and experience. The website is responsive and optimized for various screen sizes, including mobile, tablet, and desktop.
 
 ---
+
+![image](https://github.com/user-attachments/assets/243602b1-55b6-4e52-9605-3038c029200a)
+
 
 ## Features
 
@@ -46,6 +49,6 @@ Follow these steps to set up the project locally:
 Feel free to reach out for collaboration or questions:
 
 - **GitHub:** [bhavyaraju12](https://github.com/bhavyaraju12)
-- **LinkedIn:** [Bhavya Raju](https://www.linkedin.com/in/bhavyaraju12)
+- **LinkedIn:** [Bhavya Raju]([https://www.linkedin.com/in/bhavyaraju12](https://www.linkedin.com/in/bhavya-raju-87301625a/))
 - **Email:** bhavyarnair12@gmail.com
 
