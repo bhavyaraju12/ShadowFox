@@ -5,9 +5,16 @@ Welcome to the codebase for **Bhavya Raju's Portfolio**. This project showcases 
 ---
 
 ![image](https://github.com/user-attachments/assets/243602b1-55b6-4e52-9605-3038c029200a)
+![Screenshot 2025-01-20 184133](https://github.com/user-attachments/assets/487f40cb-0683-466f-bc14-15a2ffd76797)
 
+
+![Screenshot 2025-01-20 184209](https://github.com/user-attachments/assets/125a5cf3-787c-4ec0-bb10-40fcb3450cef)
+![Screenshot 2025-01-20 184220](https://github.com/user-attachments/assets/8362c9e8-a02c-44af-af63-23b88a2131b4)
+![Screenshot 2025-01-20 184234](https://github.com/user-attachments/assets/8c6dbae5-d33b-4f4a-9f59-56696ede45eb)
 
 ## Features
+
+
 
 - **Interactive Navigation:** Smooth navigation with a responsive navbar.
 - **Modern Aesthetics:** Clean and professional UI with animations and transitions.
