@@ -63,7 +63,7 @@ Here are some key pages from the website:
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/bhavyaraju12/IPL Team/SunRisersHyderabad/SunRisersHyderabad.git
+git clone https://github.com/bhavyaraju12/SunRisersHyderabad.git
 ```
 ### 3️⃣ Open in a Browser
 Simply open `index.html` in any modern browser.
@@ -85,5 +85,5 @@ If you have any questions or suggestions, feel free to reach out!
 ---
 
 ## ⭐ Show Your Support
-If you found this project useful, consider giving it a ⭐ on [GitHub](https://github.com/bhavyaraju12/SunRisersHyderabad/SunRisersHyderabad.git).
+If you found this project useful, consider giving it a ⭐ on [GitHub](https://github.com/bhavyaraju12/SunRisersHyderabad.git).
 
