@@ -1,0 +1,151 @@
+
+@media screen and (max-width: 1024px) {
+    
+    header {
+      padding: 10px;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    nav {
+      padding: 10px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  
+    nav a {
+      margin: 5px;
+      padding: 8px 15px;
+    }
+  
+    
+    #video-section {
+      height: 60vh;
+    }
+  
+    #image-section {
+      height: 60vh;
+    }
+  
+    #image-track .image {
+      width: 40vmin;
+      height: 40vmin;
+    }
+  
+    .news-container {
+      padding: 0 15px;
+    }
+  
+    .news-slider__item {
+      padding: 0 10px;
+    }
+  
+  
+    #sponsers img {
+      max-width: 150px;
+      height: auto;
+    }
+  
+    #sponsers div[style*="display: flex"] {
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+  
+    #sponsers div[style*="margin-right"] {
+      margin-right: 20px !important;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+   
+    header img {
+      height: 80px !important;
+    }
+  
+    .ham-menu {
+      display: block;
+    }
+  
+    nav a {
+      font-size: 14px;
+    }
+  
+   
+    #image-track .image {
+      width: 35vmin;
+      height: 35vmin;
+    }
+  
+    
+    .news__title {
+      font-size: 18px;
+    }
+  
+    .news__txt {
+      font-size: 14px;
+    }
+  
+  
+    #sponsers h1 {
+      font-size: 24px;
+    }
+  
+    #sponsers div[style*="display: flex"] {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    #sponsers div[style*="margin-right"] {
+      margin-right: 0 !important;
+      margin-bottom: 20px;
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    
+    header img {
+      height: 60px !important;
+    }
+
+    #video-section {
+      height: 40vh;
+    }
+  
+ 
+    #image-section {
+      height: 50vh;
+    }
+  
+    #image-track .image {
+      width: 30vmin;
+      height: 30vmin;
+    }
+  
+    
+    .news-slider__arrows {
+      display: none;
+    }
+  
+    .news__img {
+      height: 200px;
+    }
+  
+    
+    marquee h3 {
+      font-size: 14px;
+    }
+  
+    
+    footer {
+      padding: 20px 10px;
+      font-size: 14px;
+    }
+  
+    .parent {
+      gap: 10px;
+    }
+  
+    .button {
+      transform: scale(0.8);
+    }
+  }
