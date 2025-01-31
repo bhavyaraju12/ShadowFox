@@ -47,7 +47,7 @@ header {
   color: #00bcd4;
 }
 
-/* Burger menu (hidden by default) */
+
 .burger {
   display: none;
   flex-direction: column;
@@ -503,7 +503,7 @@ button:hover::before {
   align-items: center;
   width: 100%;
   max-width: 1200px;
-  margin-top: 60px; /* Adjust this value based on your navbar height */
+  margin-top: 60px;
 }
 
 .text-animation {
@@ -546,8 +546,8 @@ button:hover::before {
   height: 300px;
   border-radius: 50%;
   object-fit: cover;
-  border: 4px solid #57158d; /* This matches your purple accent color */
-  box-shadow: 0 0 20px rgba(87, 21, 141, 0.3); /* Subtle glow effect */
+  border: 4px solid #57158d;
+  box-shadow: 0 0 20px rgba(87, 21, 141, 0.3); 
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
@@ -705,13 +705,12 @@ margin-top: 0.5rem;
 }
 }
 @media (max-width: 768px) {
-/* General Responsive Fixes */
+
 section {
   padding: 40px 20px;
-  height: auto !important; /* Override fixed heights */
+  height: auto !important; 
 }
 
-/* Home Section Responsive */
 .home-content {
   flex-direction: column;
   padding: 20px;
